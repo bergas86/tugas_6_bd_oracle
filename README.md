@@ -26,8 +26,15 @@ Berikut tampilan data setelah di tambah
 ![image](https://user-images.githubusercontent.com/46914608/146667979-6efafec7-1f78-42eb-98b6-5dfd6b6afb06.png)
 
 # UPDATE
-Selanjutnay adalah Update
+Selanjutnay adalah
 Sebelum
 ![image](https://user-images.githubusercontent.com/46914608/146668271-3035c4af-41f0-4f3a-9cc2-dbde80ef35dd.png)
 
-Sesudah
+![image](https://user-images.githubusercontent.com/46914608/146669528-ff1898bd-615a-4246-964a-f4bf0d3f06d2.png)
+
+# DELETE
+Untuk Menghapus sangatlah mudah, Berikut Prosesnya.. Silahkan Pilih data yang akan dihapus, Maka akan Memunculkan Notifikasi Seperti ini
+
+![image](https://user-images.githubusercontent.com/46914608/146669547-e5a593b5-77dd-4d40-9775-dd085f16e3ed.png)
+
+Terima Kasih, Tugas Selesai......
