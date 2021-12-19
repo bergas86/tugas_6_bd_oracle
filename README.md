@@ -2,7 +2,7 @@
 # Membuat Trigger dan CRUD (Create - Delete - Update) data Tabel TOKO
 # 1. Membuat Trigger
 
-Disini saya Membuat Trigger (baranglama). Trigger ini berfungsi untuk melihat daftar barang yang dihapus dari Tabel Master Barang yang sudah saya Buat sebelumnya. Berikut Hasilnya :
+Disini saya Membuat Trigger (barang_lama). Trigger ini berfungsi untuk melihat daftar barang yang dihapus dari Tabel Master Barang yang sudah saya Buat sebelumnya. Berikut Hasilnya :
 ![image](https://user-images.githubusercontent.com/46914608/146666995-69ee9c82-7390-4c17-ab59-277422f0af7f.png)
 
 Hasil Hapus Data Barang
@@ -11,11 +11,11 @@ Hasil Hapus Data Barang
 
 # 2. Membuat CRUD data tabel Menggunakan PHP
 
-Selanjutnya kita akan Membuat CRUD data tabel. Untuk Source Code nya bisa kalian lihat di File Code diatas ya..
+Selanjutnya kita akan Membuat CRUD data tabel.
 
 # CREAT
 
-Untuk Create atau membuat dan Memasukan data baru pada Tabel di dalam database saya Memasukan data ini kedalam Tabel Master Toko.
+Untuk Create atau membuat dan Memasukan data baru pada Tabel di dalam database saya Memasukan data ini kedalam Tabel.
 
 ![image](https://user-images.githubusercontent.com/46914608/146667824-e72a4e41-42dc-4d42-8349-d20ea426159c.png)
 
@@ -26,8 +26,7 @@ Berikut tampilan data setelah di tambah
 ![image](https://user-images.githubusercontent.com/46914608/146667979-6efafec7-1f78-42eb-98b6-5dfd6b6afb06.png)
 
 # UPDATE
-Selanjutnay adalah
-Sebelum
+Selanjutnay adalah Update.
 ![image](https://user-images.githubusercontent.com/46914608/146668271-3035c4af-41f0-4f3a-9cc2-dbde80ef35dd.png)
 
 ![image](https://user-images.githubusercontent.com/46914608/146669528-ff1898bd-615a-4246-964a-f4bf0d3f06d2.png)
@@ -37,4 +36,5 @@ Untuk Menghapus sangatlah mudah, Berikut Prosesnya.. Silahkan Pilih data yang ak
 
 ![image](https://user-images.githubusercontent.com/46914608/146669547-e5a593b5-77dd-4d40-9775-dd085f16e3ed.png)
 
-Terima Kasih, Tugas Selesai......
+Terima Kasih.
+BY : bergas insan pambudy
